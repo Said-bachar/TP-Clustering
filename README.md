@@ -8,5 +8,6 @@ The goal of these project is to implement and compare different clustering algor
 * DBSCAN
 * HDBSCAN
 ***
-N.B : - The artificiels datatset used in the first part are available [here] (https://github.com/deric/clustering-benchmark)
-      - In the second part we used tha datasets availablein the 'dataset' folder.
+N.B : 
+* The artificiels datatset used in the first part are available [here] (https://github.com/deric/clustering-benchmark)
+* In the second part we used tha datasets availablein the 'dataset' folder.
